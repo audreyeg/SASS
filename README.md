@@ -1,13 +1,12 @@
 
 <link rel="stylesheet" type="text/css" href="git.css">
 
-<h1>Test</h1>
 
-## TCSS 360 "SASS" project group!
+<h1>TCSS 360 "SASS" project group!</h1>
 
-Last updated: June 10, 2020 
+<h3>Last updated: June 10, 2020</h3> 
 
-Team members: Timmy, Sam, Wesley, and Ella. 
+<h3>Team members: Timmy, Sam, Wesley, and Ella.</h3>
 
 <hr>
 
