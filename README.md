@@ -5,7 +5,7 @@ Last updated: June 10, 2020
 
 Team members: Timmy, Sam, Wesley, and Ella. 
 
-<h1>Test</h1>
+<hr>
 
 
 ### Weekly Minutes and Task Matrices
