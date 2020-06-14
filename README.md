@@ -1,16 +1,5 @@
-<!DOCTYPE html>
-<html>
-<head>
-	<title>Bottstap Basics</title>
-	<link rel="stylesheet" type="text/css" href="bootstrap.css">
 
-	<style type="text/css">
-		h1 {
-			text-align:center;
-		}
-	</style>
-</head>
-<body>
+<link rel="stylesheet" type="text/css" href="https://audreyeg.github.io/git.css">
 
 <h1>Test</h1>
 
