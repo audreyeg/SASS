@@ -1,10 +1,4 @@
-<style type="text/css">
-		h1 {
-			text-align: center;
-		}
-	</style>
 
-<h1>Test</h1>
 ## TCSS 360 "SASS" project group!
 
 Last updated: June 10, 2020 
