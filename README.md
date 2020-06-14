@@ -1,6 +1,7 @@
 
 <link rel="stylesheet" type="text/css" href="git.css">
 
+<body>
 
 <h1>TCSS 360 "SASS" project group!</h1>
 
@@ -36,6 +37,6 @@
 Contact email: superawsomeemail43212 *at* gmail *dot* com
 
 
-
+</body>
 
 
