@@ -1,3 +1,18 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Bottstap Basics</title>
+	<link rel="stylesheet" type="text/css" href="bootstrap.css">
+
+	<style type="text/css">
+		h1 {
+			text-align:center;
+		}
+	</style>
+</head>
+<body>
+
+<h1>Test</h1>
 
 ## TCSS 360 "SASS" project group!
 
